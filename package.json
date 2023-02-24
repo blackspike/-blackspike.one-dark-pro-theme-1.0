@@ -1,0 +1,22 @@
+{
+    "name": "blackspike",
+    "displayName": "Blackspike",
+    "description": "Blackspike theme based on One Dark Pro",
+    "version": "0.0.1",
+    "publisher": "blackspike",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blackspike",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blackspike-color-theme.json"
+            }
+        ]
+    }
+}
