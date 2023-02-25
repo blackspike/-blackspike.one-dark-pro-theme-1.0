@@ -77,11 +77,10 @@
     "terminal.ansiGreen": "#98c379",
     "terminal.ansiYellow": "#c4e4ee",
     "terminal.foreground": "#c8c8c8",
-    "titleBar.activeBackground": "#282c34",
+    "titleBar.activeBackground": "#21252b",
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#21252b",
     "titleBar.inactiveForeground": "#6b717d",
-
     "panel.border": "#00000020",
     "scrollbar.shadow": "#00000000"
     //"activityBar.dropBackground": "#ffffff1f",
